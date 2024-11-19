@@ -1,4 +1,3 @@
-package PACKAGE_NAME;
-
-public class SdCardInterface {
+public interface SdCardInterface {
+    public void readFromSd();
 }
